@@ -42,7 +42,7 @@ Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350
 </p>
 
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
 
   <a href="https://firebase.google.com/" target="_blank">
@@ -78,3 +78,37 @@ Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350
   </a>
  
 </p>
+</p>
+
+<h3 align="center">
+Design and Modeling Tools </h3>
+<p align="center"> 
+     <a href="https://git-scm.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465"
+      alt="figma"/>
+  </a>
+</p>
+
+
+----
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  
+  <div>
+    <a  href="https://linkedin.com/in/example" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+  
+  </div>
+  <div>
+      <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+  </div>
+</div>
+
+ 
+
+----
