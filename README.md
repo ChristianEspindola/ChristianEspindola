@@ -5,7 +5,7 @@ Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350
 ===========================================================================================================================================
  
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnico+Superior+en+Análisis+de+Sistemas;+desarrollador+frontend.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=3399FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Técnico+Superior+en+Análisis+de+Sistemas;+desarrollador+frontend.">
 </a>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
