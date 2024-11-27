@@ -110,6 +110,10 @@ Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350
 - **[Tecno4all - Tienda de Celulares](https://christianespindola.github.io/Tecno4all/):**  
   Una tienda online enfocada en la venta de celulares y tecnología móvil. El proyecto utiliza **HTML5**, **CSS3**, **JavaScript**, y **Bootstrap** para ofrecer una interfaz de usuario intuitiva y responsiva. Fue diseñado para simular una experiencia de compra en línea, incluyendo una página de productos y detalles del catálogo.
 
+### 🌱 Otros Intereses
+
+Cuando no estoy programando, disfruto de pasear con la familia, jugar videojuegos, mirar/jugar futbol. 
+Siempre estoy buscando nuevas formas de mejorar mis habilidades y crecer profesionalmente.
 
 
 ----
