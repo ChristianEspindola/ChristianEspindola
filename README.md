@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3399ff&height=120&section=header"/>
+
+
 Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
  
@@ -118,6 +121,7 @@ Siempre estoy buscando nuevas formas de mejorar mis habilidades y crecer profesi
 
 ----
 
+
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
@@ -136,5 +140,4 @@ Siempre estoy buscando nuevas formas de mejorar mis habilidades y crecer profesi
 
 
  
-
-----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3399ff&height=120&section=footer"/>
