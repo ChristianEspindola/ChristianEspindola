@@ -80,14 +80,36 @@ Hola soy Christian Espindola ![](https://user-images.githubusercontent.com/18350
 </p>
 </p>
 
-<h3 align="center">
-Design and Modeling Tools </h3>
+ 
+<h3 align="center">Design and Modeling Tools</h3>
 <p align="center"> 
-     <a href="https://git-scm.com/" target="_blank">
-    <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465"
-      alt="figma"/>
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank">
+    <img src="https://img.shields.io/badge/Visio-3955A3.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Visio"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
   </a>
 </p>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianEspindola&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianEspindola&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+
+## 🚀 Proyectos Destacados
+
+- **[Mi Portafolio Personal](https://porfolio-christian-espindola.netlify.app/):**  
+  Este es mi portafolio personal donde muestro mis habilidades, proyectos y experiencia como desarrollador frontend. Fue desarrollado con **React**, **CSS3**, y **Firebase** para la gestión de datos. Su propósito es servir como carta de presentación profesional y facilitar el contacto con potenciales empleadores o colaboradores.
+
+- **[Tecno4all - Tienda de Celulares](https://christianespindola.github.io/Tecno4all/):**  
+  Una tienda online enfocada en la venta de celulares y tecnología móvil. El proyecto utiliza **HTML5**, **CSS3**, **JavaScript**, y **Bootstrap** para ofrecer una interfaz de usuario intuitiva y responsiva. Fue diseñado para simular una experiencia de compra en línea, incluyendo una página de productos y detalles del catálogo.
+
 
 
 ----
