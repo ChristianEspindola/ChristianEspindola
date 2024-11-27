@@ -123,17 +123,17 @@ Siempre estoy buscando nuevas formas de mejorar mis habilidades y crecer profesi
 <div style="margin-top:10px" align="center">
   
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    <a href="https://www.linkedin.com/in/christian-espindola-analista/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Christian Espindola LinkedIn"/>
     </a>
-  
   </div>
   <div>
-      <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
+    <a href="mailto:christian.espindola@hotmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+      <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Christian Espindola Email"/>
+    </a>
   </div>
 </div>
+
 
  
 
